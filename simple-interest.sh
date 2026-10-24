@@ -5,7 +5,6 @@
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
 # Rajiv-Patil
-# Reverted: bug-fix-revert
 
 # Input:
 # p, principal amount
